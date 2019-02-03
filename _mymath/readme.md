@@ -1,4 +1,4 @@
-gcc -c *.c -I.
-gcc *.o
-gcc *.o -o runprog1
-./runprog1 25 2 
+gcc -c *.c -I. <br /> 
+gcc *.o <br /> 
+gcc *.o -o runprog1 <br /> 
+./runprog1 25 2  <br /> 
